@@ -1,0 +1,16 @@
+Unprovability comes to machine learning. Scenarios have been 
+discovered in which it is impossible to prove whether or not 
+a machine-learning algorithm could solve a particular problem. 
+This finding might have implications for both established and 
+future learning algorithms.
+https://www.nature.com/articles/d41586-019-00012-4
+
+We are in the process of writing a book on Mathematics for 
+Machine Learning that motivates people to learn mathematical 
+concepts. The book is not intended to cover advanced machine 
+learning techniques because there are already plenty of books 
+doing this. Instead, we aim to provide the necessary mathematical 
+skills to read those other books.
+https://mml-book.github.io/
+
+
